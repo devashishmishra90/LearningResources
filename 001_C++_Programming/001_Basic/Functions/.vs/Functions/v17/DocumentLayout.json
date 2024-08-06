@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning Resources\\LearningResources\\001_C\u002B\u002B_Programming\\001_Basic\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1750BC-B551-4C5B-9A10-BDF9217A2569}|Functions\\Functions.vcxproj|D:\\Learning Resources\\LearningResources\\001_C\u002B\u002B_Programming\\001_Basic\\Functions\\Functions\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE1750BC-B551-4C5B-9A10-BDF9217A2569}|Functions\\Functions.vcxproj|solutionrelative:Functions\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Functions.cpp",
+              "DocumentMoniker": "D:\\Learning Resources\\LearningResources\\001_C\u002B\u002B_Programming\\001_Basic\\Functions\\Functions\\Functions.cpp",
+              "RelativeDocumentMoniker": "Functions\\Functions.cpp",
+              "ToolTip": "D:\\Learning Resources\\LearningResources\\001_C\u002B\u002B_Programming\\001_Basic\\Functions\\Functions\\Functions.cpp",
+              "RelativeToolTip": "Functions\\Functions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T17:47:06.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
